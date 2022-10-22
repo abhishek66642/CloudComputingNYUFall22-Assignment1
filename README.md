@@ -32,22 +32,39 @@ Other Service like
 ### Example User Interaction with Chatbot
 
 User: Hello
+
 Bot: Hi there, how can I help?
+
 User: I need some restaurant suggestions.
+
 Bot: Great. I can help you with that. What city or city area are you looking to dine in?
+
 User: Manhattan
+
 Bot: Got it, Manhattan. What cuisine would you like to try?
+
 User: Japanese
+
 Bot: Ok, how many people are in your party?
+
 User:Two
+
 Bot: A few more to go. What date?
-User: T oday
+
+User: Today
+
 Bot: What time?
+
 User: 7 pm, please
+
 Bot: Great. Lastly, I need your email so I can send you my findings.
+
 User: john.doe@aws.com
+
 Bot: You’re all set. Expect my suggestions shortly! Have a good day.
+
 User: Thank you!
+
 Bot: You’re welcome.
 
 (a few minutes later)
