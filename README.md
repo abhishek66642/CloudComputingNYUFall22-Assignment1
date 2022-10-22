@@ -56,4 +56,4 @@ User gets the following text message:
 
 ### Architecture
 
-![alt text](https://github.com/abhishek66642/Restaurant-Recommendation-Chatbot-Cloud/blob/master/images/Architecture.png)
+![alt text](https://github.com/abhishek66642/Restaurant-Recommendation-Chatbot-Cloud/blob/main/images/Architecture.png)
